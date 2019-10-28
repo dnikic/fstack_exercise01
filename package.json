@@ -1,0 +1,24 @@
+{
+  "name": "fstack_exercise01",
+  "version": "1.0.0",
+  "description": "Folowing full stack web dev course",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "devStart": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnikic/fstack_exercise01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dnikic/fstack_exercise01/issues"
+  },
+  "homepage": "https://github.com/dnikic/fstack_exercise01#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
